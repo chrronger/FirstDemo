@@ -1,0 +1,6 @@
+
+<view class="container detail">
+  <view> {{detail1}} </view>
+  <view> {{detail2}} </view>
+</view>
+       
